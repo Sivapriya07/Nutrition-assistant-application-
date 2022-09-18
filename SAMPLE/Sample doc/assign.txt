@@ -1,0 +1,3 @@
+pyhton is the one of the most popular language .
+it is fully dynamic.
+it is a open source language to learn and practice.
